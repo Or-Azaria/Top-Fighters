@@ -1,0 +1,13 @@
+$background: #dd3444;
+
+.container-navbar {
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.899);
+  .navbarSupportedContent {
+    .links-container {
+      .nav-link:hover {
+        color: $background;
+      }
+    }
+  }
+}

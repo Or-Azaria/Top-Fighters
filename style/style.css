@@ -1,0 +1,117 @@
+.container-navbar {
+  position: fixed;
+  background-color: rgba(255, 255, 255, 0.899);
+}
+
+.container-navbar .navbarSupportedContent .links-container .nav-link:hover {
+  color: #dd3444;
+}
+
+header.header-container {
+  font-family: fantasy;
+}
+
+header.header-container .img-header {
+  height: 650px;
+  background-image: url("../assets/1178413891.jpg.0.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header.header-container .img-header .header-title-container {
+  background: rgba(0, 0, 0, 0.553);
+}
+
+header.header-container .img-header .header-title-container h1 {
+  font-size: 100px;
+  border-bottom: 3px solid white;
+}
+
+header.header-container .img-header .header-title-container .btn-see-fights {
+  width: 10em;
+  color: white;
+  font-size: 30px;
+  background-color: #dd3444;
+}
+
+header.header-container .img-header .header-title-container .btn-see-fights:hover {
+  -webkit-transition: 1s;
+  transition: 1s;
+  color: black;
+  background: white;
+}
+
+main {
+  font-family: fantasy;
+  font-size: 20px;
+  background: rgba(0, 0, 0, 0.374);
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+          box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+main .api-section {
+  -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+          box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+main .api-section .upcoming-title {
+  font-family: fantasy;
+  font-size: 70px;
+  color: #dd3444;
+}
+
+main .api-section .js-box {
+  -webkit-box-shadow: 0 0 5px 5px rgba(28, 12, 12, 0.63);
+          box-shadow: 0 0 5px 5px rgba(28, 12, 12, 0.63);
+  background-color: rgba(0, 0, 0, 0.374);
+  border-radius: 20px;
+}
+
+main .api-section .thanks-container {
+  background-image: url(../assets/login_cover.jpeg);
+  background-color: rgba(19, 19, 21, 0.852);
+  background-blend-mode: screen;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+
+main .api-section .thanks-container p {
+  background: rgba(8, 8, 8, 0.308);
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background: #b8b6b6;
+  background: radial-gradient(circle, rgba(184, 182, 182, 0.993457) 4%, #606060 75%);
+}
+
+body footer .fa-facebook-f:hover {
+  color: rgba(0, 115, 255, 0.9);
+}
+
+body footer .fa-twitter:hover {
+  color: rgba(0, 115, 255, 0.9);
+}
+
+body footer .fa-google:hover {
+  color: #0ea70e;
+}
+
+body footer .fa-instagram:hover {
+  color: #8b145f;
+}
+
+body footer .fa-linkedin:hover {
+  color: rgba(0, 115, 255, 0.9);
+}
+
+body footer .fa-github:hover {
+  color: grey;
+}
+/*# sourceMappingURL=style.css.map */

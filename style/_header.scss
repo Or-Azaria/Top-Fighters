@@ -1,0 +1,30 @@
+$background: #dd3444;
+
+header.header-container {
+  font-family: fantasy;
+  .img-header {
+    height: 650px;
+    background-image: url("../assets/1178413891.jpg.0.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .header-title-container {
+      background: rgba(0, 0, 0, 0.553);
+      h1 {
+        font-size: 100px;
+        border-bottom: 3px solid white;
+      }
+      .btn-see-fights {
+        width: 10em;
+        color: white;
+        font-size: 30px;
+        background-color: $background;
+      }
+      .btn-see-fights:hover {
+        transition: 1s;
+        color: black;
+        background: white;
+      }
+    }
+  }
+}

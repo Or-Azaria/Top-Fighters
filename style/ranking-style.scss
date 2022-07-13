@@ -1,0 +1,31 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  .main-title {
+    font-size: 80px;
+    font-family: fantasy;
+    color: #dd3444;
+  }
+  background: rgb(25, 23, 23);
+  background: linear-gradient(
+    90deg,
+    rgba(25, 23, 23, 1) 0%,
+    rgba(50, 46, 46, 1) 47%,
+    rgba(0, 0, 0, 1) 100%
+  );
+
+  #rankings,
+  #fighters,
+  #fighters-heavy,
+  #fighters-light {
+    background: rgb(25, 23, 23);
+    background: linear-gradient(
+      90deg,
+      rgba(25, 23, 23, 1) 0%,
+      rgba(50, 46, 46, 1) 47%,
+      rgba(0, 0, 0, 1) 100%
+    );
+  }
+}

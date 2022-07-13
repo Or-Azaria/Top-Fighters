@@ -1,0 +1,20 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url("../assets/jorge-masvidal-masvidal.gif");
+  background-color: #4c4c55;
+  background-blend-mode: screen;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body .main-title {
+  font-size: 80px;
+  font-family: fantasy;
+  color: #dd3444;
+}
+/*# sourceMappingURL=ranking-style.css.map */

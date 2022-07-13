@@ -1,0 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background: #191717;
+  background: -webkit-gradient(linear, left top, right top, from(#191717), color-stop(47%, #322e2e), to(black));
+  background: linear-gradient(90deg, #191717 0%, #322e2e 47%, black 100%);
+}
+
+body .main-title {
+  font-size: 80px;
+  font-family: fantasy;
+  color: #dd3444;
+}
+
+body #rankings,
+body #fighters,
+body #fighters-heavy,
+body #fighters-light {
+  background: #191717;
+  background: -webkit-gradient(linear, left top, right top, from(#191717), color-stop(47%, #322e2e), to(black));
+  background: linear-gradient(90deg, #191717 0%, #322e2e 47%, black 100%);
+}
+/*# sourceMappingURL=ranking-style.css.map */
