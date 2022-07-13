@@ -7,7 +7,7 @@ an easy access to the the fighter’s ranking and more...
 * difficulties : 
 1. choosing a reliable API was definitely challenging and a lot of time was spend until i founded one.
 2. i tried to make a bet option for each fight event .
-3. working with oop .
+3. Applying oop .
 * what went well : the vision of what i wanted as a website was clear to me from the start,
  the wireframe document (down below) make the building process more comfortable and easy.
 
