@@ -18,4 +18,4 @@ an easy access to the the fighter’s ranking and more...
 <img width="730" alt="Screen Shot 2022-07-13 at 9 40 46" src="https://user-images.githubusercontent.com/96197345/178667814-0a370ee6-e95e-4fb0-8e78-4927aaa5acaa.png">
 <img width="510" alt="Screen Shot 2022-07-13 at 9 41 07" src="https://user-images.githubusercontent.com/96197345/178667840-2cef7cbf-642a-484b-be96-877b4cf21aa8.png">
 
-https://miro.com/app/board/uXjVOniQCcE=/
+
