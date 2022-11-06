@@ -43,7 +43,7 @@ header.header-container .img-header .header-title-container .btn-see-fights:hove
 }
 
 main {
-  font-family: fantasy;
+  font-family: sans-serif;
   font-size: 20px;
   background: rgba(0, 0, 0, 0.374);
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
@@ -56,7 +56,7 @@ main .api-section {
 }
 
 main .api-section .upcoming-title {
-  font-family: fantasy;
+  font-family: sans-serif;
   font-size: 70px;
   color: #dd3444;
 }
