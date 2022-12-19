@@ -2,7 +2,7 @@
 
 # Description 
 Top-Fighters is a website which gives the user information about all the events which take place in the ufc world,
-an easy access to the the fighter’s ranking and more...
+an easy access to the fighter’s ranking and more...
 # Project flow 
 * difficulties : 
 1. Choosing a reliable API was definitely challenging and a lot of time was spend until i founded one.
