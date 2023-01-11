@@ -1,50 +1,40 @@
 # Top-Fighters
 
 # Description 
-Top-Fighters is a website which gives the user information about all the events which take place in the ufc world,
-an easy access to the fighter’s ranking and more...
-# Project flow 
-* difficulties : 
-1. Choosing a reliable API was definitely challenging and a lot of time was spend until i founded one.
-2. I tried to make a bet option for each fight event .
-3. Applying oop .
-* What went well : the vision of what i wanted as a website was clear to me from the start,
- the wireframe document (down below) make the building process more comfortable and easy.
-
-
-Top-Fighters
 Top-Fighters is a website that provides users with information about all events in the UFC world, as well as easy access to fighter rankings and more.
 
-Project Flow
-The development of this website had its challenges, including:
+# Project flow 
 
-Choosing a reliable API that provided accurate and up-to-date information about UFC events and fighters.
-Attempting to implement a betting feature for each fight event.
-Applying object-oriented programming concepts to the codebase.
-Despite these difficulties, there were also things that went well:
+##The development of this website had its challenges, including:
 
-A clear vision of what was wanted from the website from the start.
-Using a wireframe document to guide the building process and make it more comfortable and easy.
-Getting Started
+* Choosing a reliable API that provided accurate and up-to-date information about UFC events and fighters.
+* Attempting to implement a betting feature for each fight event.
+* Applying object-oriented programming concepts to the codebase.
+
+
+## Despite these difficulties, there were also things that went well:
+
+* A clear vision of what was wanted from the website from the start.
+* Using a wireframe document to guide the building process and make it more comfortable and easy.
+
+
+# Getting Started
 To run this project locally, you will need to:
 
-Clone this repository
-Install the dependencies using npm install
-Run the project using npm start
-Dependencies
+* Clone this repository
+* Install the dependencies using npm install
+* Run the project using npm start
+
+
+# Dependencies
 This project is built using the following technologies and dependencies:
 
-express
-mongoose
-React
+Javascript
 bootstrap
-Contributing
+
+
+# Contributing
 If you're interested in contributing to this project, please feel free to create a pull request. Any contributions, whether big or small, are always welcome!
-
-
-
-
-
 
 
 
