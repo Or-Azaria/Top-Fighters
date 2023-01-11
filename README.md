@@ -5,14 +5,13 @@ Top-Fighters is a website that provides users with information about all events 
 
 # Project flow 
 
-##The development of this website had its challenges, including:
+The development of this website had its challenges, including:
 
 * Choosing a reliable API that provided accurate and up-to-date information about UFC events and fighters.
 * Attempting to implement a betting feature for each fight event.
 * Applying object-oriented programming concepts to the codebase.
 
-
-## Despite these difficulties, there were also things that went well:
+Despite these difficulties, there were also things that went well:
 
 * A clear vision of what was wanted from the website from the start.
 * Using a wireframe document to guide the building process and make it more comfortable and easy.
@@ -28,9 +27,8 @@ To run this project locally, you will need to:
 
 # Dependencies
 This project is built using the following technologies and dependencies:
-
-Javascript
-bootstrap
+* Javascript
+* bootstrap
 
 
 # Contributing
