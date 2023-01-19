@@ -1,7 +1,6 @@
 ![main-page,mobile](https://www.linkpicture.com/q/Screenshot-2023-01-19-at-20.17.55.png)
 ![Login-page,mobile](https://www.linkpicture.com/q/Screenshot-2023-01-19-at-20.18.58.png)
 ![Login-page,mobile](https://www.linkpicture.com/q/Screenshot-2023-01-19-at-20.20.05.png)
-![Login-page,mobile](https://www.linkpicture.com/q/Screenshot-2023-01-19-at-20.18.58.png)
 
 # Top-Fighters
 
